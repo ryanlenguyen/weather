@@ -1,7 +1,7 @@
 {
   "name": "weather",
   "version": "0.1.0",
-  "homepage": "https://s3781009.github.io/weather",
+  "homepage": "https://ryanlenguyen.github.io/weather",
   "private": true,
   "dependencies": {
     "@react-three/drei": "^9.4.3",
